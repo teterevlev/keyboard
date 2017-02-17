@@ -1,0 +1,9 @@
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\bin\Debug\keyboard_tester.exe.config
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\bin\Debug\keyboard_tester.exe
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\bin\Debug\keyboard_tester.pdb
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\obj\Debug\keyboard_tester.csprojResolveAssemblyReference.cache
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\obj\Debug\keyboard_tester.Form1.resources
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\obj\Debug\keyboard_tester.Properties.Resources.resources
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\obj\Debug\keyboard_tester.csproj.GenerateResource.Cache
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\obj\Debug\keyboard_tester.exe
+C:\Users\odama\Documents\GitHub\keyboard\keyboard_tester\keyboard_tester\keyboard_tester\obj\Debug\keyboard_tester.pdb
